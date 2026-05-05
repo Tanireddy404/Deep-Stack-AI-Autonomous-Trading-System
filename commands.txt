@@ -1,0 +1,2 @@
+cd "$HOME\Downloads\Deepstack\Deepstack"
+python -m streamlit run app.py
